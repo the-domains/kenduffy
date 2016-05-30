@@ -1,0 +1,29 @@
+name: kenduffy
+favicon: null
+layout_spectrum: 0.28048924286849797
+typography_spectrum: 0.231755563756451
+title: Ken Duffy Photography
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5384818105958402
+  lightness: 0.6311138342134655
+  saturation: 0.9445253382436931
+  rhythmicContrast: 0.8519680178724229
+purpose: []
